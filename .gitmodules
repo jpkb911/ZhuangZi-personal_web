@@ -1,6 +1,3 @@
 [submodule "ZhuangZi_web"]
 	path = ZhuangZi_web
 	url = https://github.com/jpkb911/ZhuangZi_web.git
-[submodule "yunshu_skillshub"]
-	path = yunshu_skillshub
-	url = https://github.com/yunshu0909/yunshu_skillshub.git
